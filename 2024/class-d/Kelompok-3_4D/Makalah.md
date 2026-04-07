@@ -4,7 +4,7 @@
 ## Disusun Oleh : Kelompok 3 (4D)
 1. Rana Azahra : 12402051010026
 2. Fairuz Pramathana Sani : 12402051050147
-3. Fatma Ramadhani
+3. Fatma Ramadhani : 12402051050157
 ## Program Studi Ilmu Perpustakaan
 ## Fakultas Adab dan Humaniora 
 ## Universitas Islam Negri Syarif Hidayatullah Jakarta
