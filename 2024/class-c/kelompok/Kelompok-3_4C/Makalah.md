@@ -23,7 +23,7 @@
 
 <br>
 
-<p align="center"><b>KATA PENGANTAR</b></p>
+### <p align="center"><b>KATA PENGANTAR</b></p>
 <p align="justify">
 
 <br>
@@ -43,14 +43,14 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 <br>
 
 
-**<p align="center">BAB I</p>**
-**<p align="center">PENDAHULUAN</p>**
+### **<p align="center">BAB I</p>**
+### **<p align="center">PENDAHULUAN</p>**
 <br>
 
-**1.1. Latar Belakang**
+#### **1.1. Latar Belakang** 
 
 
-**1.2. Rumusan Masalah**
+#### **1.2. Rumusan Masalah**
 <p align="justify">
 &nbsp;1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang?
 <br>
@@ -65,7 +65,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;6. Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi!
 </p>
 
-**1.3. Tujuan Penulisan**
+#### **1.3. Tujuan Penulisan**
 <p align="justify">
 &nbsp;1. Untuk mengetahui pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
 <br>
@@ -84,11 +84,11 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 ---
 <br>
 
-**<p align="center">BAB II</p>**
-**<p align="center">PEMBAHASAN</P>**
+### **<p align="center">BAB II</p>**
+### **<p align="center">PEMBAHASAN</P>**
 <br>
 
-**2.1. Pola Hubungan antara Negara dan Teknologi pada Rentang Tahun 1960-Sekarang**
+#### **2.1. Pola Hubungan antara Negara dan Teknologi pada Rentang Tahun 1960-Sekarang** 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Dalam buku Troublemakers: Silicon Valley Coming of Age, pada tahun 1960, awalnya teknologi sangat bergantung pada negara, terutama departemen pertahanan atau militer melalui lembaga ARPA (Advanced Research Projects Agency) yang dibentuk pada tahun 1958 memberikan dana yang besar untuk penelitian seperti ARPANET (Advanced Research Project Agency Network) yaitu jaringan awal sebuah internet yang diteliti oleh Bob Taylor.
 </p>
@@ -101,11 +101,11 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp;Pada masa sekarang lembaga ARPA berubah menjadi DARPA (Defense Advanced Projects Agency) pada tahun 1972. Bertambahnya kata "defense" yaitu untuk melakukan penelitian tingkat tinggi untuk pertahanan. Industri teknologi sangat berpengaruh secara ekonomi dan juga kuat secara politik, perusahaan teknologi mengeluarkan biaya besar untuk melobi pemerintah. Karena itu negara dan teknologi keduanya saling bergantungan menjadi hubungan dua arah. Negara membutuhkan teknologi juga membutuhkan negara.
 </p>
   
-**2.2. Pola Hubungan antara Swasta dan Teknologi pada Rentang Tahun 1960-Sekarang**
+#### **2.2. Pola Hubungan antara Swasta dan Teknologi pada Rentang Tahun 1960-Sekarang**
 
 
 
-**2.3. Implementasi dan Kontribusi _Hacking Culture_ dalam Pengembangan Teknologi Modern**
+#### **2.3. Implementasi dan Kontribusi _Hacking Culture_ dalam Pengembangan Teknologi Modern** 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Pada buku Troublemakers, hacking culture (budaya peretasan) merupakan awal munculnya industri komputer pribadi di Silicon Valley. Budaya ini diimplementasikan serta didorong oleh rasa ingin tahu dan keinginan untuk mendemostrasikan teknologi melalui komunitas. Komunitas tersebut seperti Homebrew Computer Club, dimana mereka memiliki kesabaran untuk mengetik rangkaian karakter panjang demi membuat komputer melakukan tugas yang paling sederhana. 
 </p>
@@ -119,9 +119,9 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kontribusi bukan hanya berupa perangkat keras atau lunak saja, melainkan sebuah kerangka berpikir baru yang menempatkan teknologi di tangan individu. Budaya ini yang telah mengubah komputer dari sekeldar "alat hitung" menjadi "alat komunikasi" dan kreativitas yang kita gunakan setiap hari dalam kehidupan modern. Hacking culture turut membentuk ekosistem Silicon Valley sebagai pusat inovasi global. Lingkungan yang mendukung kebebasan bereksperimen dan toleransi terhadap kegagalan memungkinkan para inovator untuk terus menciptakan teknologi baru.  
 </p>
 
-**2.4. Sejarah dan Pola Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
+#### **2.4. Sejarah dan Pola Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
 
-**2.5. Sikap terhadap Kode Sumber Terbuka dan Kode Sumber Tertutup**
+#### **2.5. Sikap terhadap Kode Sumber Terbuka dan Kode Sumber Tertutup**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Dalam Das Kapital, Karl Marx menjelaskan bahwa dalam sistem kapitalisme, kekayaan masyarakat dipandang sebagai kumpulan besar komoditas, dimana nilai suatu benda tidak hanya ditentukan oleh kegunaannya, tapi terutama oleh nilai tukarnya. Komoditas adalah segala sesuatu yang mampu memenuhi kebutuhan manusia, baik kebutuhan fisik maupun nonfisik, dan nilai guna suatu benda hanya menjadi nyata ketika digunakan atau dikonsumsi. Namun, dalam kapitalisme, nilai tukar menjadi lebih dominan, sehingga segala sesuatu, termasuk pengetahuan dan teknologi, dapat dikomodifikasi atau dijadikan sebagai barang yang diperjualbelikan. Dalam konteks ini, teknologi tidak lagi sekadar alat bantu manusia, melainkan berubah menjadi instrumen ekonomi yang digunakan untuk meningkatkan produktivitas dan menghasilkan nilai lebih (surplus value), bahkan seringkali menggantikan tenaga kerja manusia. Dengan demikian, teknologi dalam kapitalisme cenderung memperparah eksploitasi dan memperlebar ketimpangan sosial.
 </p>
@@ -129,20 +129,20 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp;Sementara itu, dalam Troublemakers of Silicon Valley, digambarkan bahwa pada awal perkembangan teknologi komputer, khususnya melalui komunitas Homebrew Computer Club pada tahun 1970-an, terdapat semangat yang sangat berbeda dari logika kapitalisme. Komunitas ini didirikan sebagai wadah bagi para penggemar komputer untuk belajar, berbagi pengetahuan, dan mengembangkan teknologi secara bersama-sama. Bagi mereka, proses menciptakan teknologi sama pentingnya dengan hasil akhirnya, dan komputer dipandang sebagai alat untuk kemanusiaan serta keadilan sosial. Nilai-nilai yang dianut oleh komunitas ini mencerminkan prinsip yang kini dikenal sebagai open source, yaitu keterbukaan, kolaborasi, dan kebebasan dalam mengakses serta memodifikasi teknologi. Mereka tidak berorientasi pada keuntungan, melainkan pada pembelajaran kolektif dan pemberdayaan masyarakat. Bahkan, komunitas ini memiliki sikap anti terhadap perusahaan besar dan monopoli, yang dianggap membatasi kebebasan dalam berbagi pengetahuan.
 <br>
 
-**2.6. Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
+#### **2.6. Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
 
 
 ---
 <br>
 
-**<p align="center">BAB III</p>**
-**<p align="center">PENUTUP</p>**
+### **<p align="center">BAB III</p>**
+### **<p align="center">PENUTUP</p>**
 <br>
 
-**3.1. Kesimpulan**
+#### **3.1. Kesimpulan**
 
 ---
 <br>
 
-**<p align="center">DAFTAR PUSTAKA</p>**
+### **<p align="center">DAFTAR PUSTAKA</p>**
 
